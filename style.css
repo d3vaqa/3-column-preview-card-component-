@@ -93,6 +93,10 @@ button {
 /*  */
 
 @media screen and (max-width: 375px) {
+  .container {
+    margin: 125px auto;
+    height: auto;
+  }
   .card-component {
     grid-template-columns: 1fr;
   }
