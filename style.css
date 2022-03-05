@@ -92,7 +92,7 @@ button {
 
 /*  */
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 768px) {
   .container {
     margin: 125px auto;
     height: auto;
